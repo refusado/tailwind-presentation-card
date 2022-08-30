@@ -1,0 +1,2 @@
+# Presentation Card - Tailwind CSS
+Este é um estudo de configurações e testes com o framework [Tailwind CSS](https://tailwindcss.com/). O objetivo deste respositório é eu me familiarizar com o uso, teste e a produção de projetos com a tecnologia.
