@@ -1,8 +1,8 @@
 {
-  "name": "tailwind-test",
+  "name": "presentation-card",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "tailwind": "tailwind -i ./css/tailwind.css -o ./css/styles.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
